@@ -54,5 +54,9 @@ A list of labs completed.
 </details>
 
 # Translation Code
-Google Cloud Fundamentals -  Getting Started App Engine  <img src="Google Cloud Fundamentals -  Getting Started App Engine.txt" />
+<details>
+  <summary>Google Cloud Fundamentals -  Getting Started App Engine </summary>
+  <img src="Google Cloud Fundamentals -  Getting Started App Engine.txt" />
+</details>
+
 
